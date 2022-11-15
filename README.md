@@ -1,3 +1,2 @@
 # GAMES-105
-CharacterAnimationLearn
-Personal Learning
+Character Animation Learn and Note
